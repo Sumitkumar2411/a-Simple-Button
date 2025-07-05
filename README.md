@@ -24,9 +24,10 @@ It includes padding, border-radius, hover effects, shadows, and smooth transitio
 
 The purpose of this mini project was to get comfortable with essential CSS button properties and build visually appealing, interactive buttons using pure HTML and CSS — no JavaScript involved.
 
-### 🔸 Project Preview
+## 🔸 Button Preview
 
-![Button Screenshot](https://github.com/Sumitkumar2411/a-Simple-Button/assets/your-username/abc1234567.png)
+![Button Preview](./a%20simple%20button.PNG)
+
 
 
 
