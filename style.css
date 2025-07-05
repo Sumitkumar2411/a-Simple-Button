@@ -42,7 +42,9 @@
        5. display: inline-block => Makes the button behave like an inline element but allows width/height settings.  
        Why used: Ensures proper spacing and alignment with other elements.
 
-       6. :hover (Pseudo-class) =>   
+       6. :hover (Pseudo-class) =>   Changes properties when the mouse hovers over the button (darker background, bigger shadow, slight lift).
+
+       7. transform: translateY(-2px) (on hover)  =>  Moves the button up by 2 pixels when hovered.  Creates a "lift" effect, making the button feel responsive
 
 
 
