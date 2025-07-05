@@ -1,0 +1,68 @@
+ body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #fffed3;
+            font-family: Arial, sans-serif;
+        }
+
+        .simple-button {
+            padding: 12px 24px;
+            font-size: 16px;
+            font-weight: 500;
+            color: #fafafa;
+            background-color: #007bff;
+            border: 2px solid #f1f8ff;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .simple-button:hover {
+            background-color: #0056b3;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+            transform: translateY(-2px);
+        }
+
+       /* 1. why padding: 12px 24px  =>  Adds space inside the button (12px top/bottom, 24px left/right) to make the text look comfortable.
+       Button ke andar ka space. Text chipka hua nahi lagta, thoda space milta hai.
+       
+       2. font-weight: 500  => Makes the text slightly bold (500 is medium-bold).
+
+       3. why transition: all 0.3s ease  =>  Makes changes (like color or shadow) happen smoothly over 0.3 seconds.
+
+       4. box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2)  =>  Adds a subtle shadow under the button (0px horizontal, 2px vertical, 5px blur, slight darkness).
+
+       5. display: inline-block => Makes the button behave like an inline element but allows width/height settings.  
+       Why used: Ensures proper spacing and alignment with other elements.
+
+       6. :hover (Pseudo-class) =>   
+
+
+
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       */
+
+
+    
